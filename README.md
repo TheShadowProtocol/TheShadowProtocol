@@ -9,19 +9,18 @@
 ---
 
 ## 🧠 Who Am I?
-
-#```python
-class ShadowProtocol:
-    def __init__(self):
-        self.status = "Learning"
-        self.stack = ["Python", "HTML", "CSS", "Java", "GitHub"]
-        self.goal = "Become a CSE-AI&ML powerhouse"
-        self.vibe = "Dark mode or GTFO"
-
- def code(self):
-        print("Building stuff that breaks reality 🤖")
-
-ShadowProtocol().code()
+   ```python 
+                class ShadowProtocol:
+                    def __init__(self):
+                        self.status = "Learning"
+                        self.stack = ["Python", "HTML", "CSS", "Java", "GitHub"]
+                        self.goal = "Become a CSE-AI&ML powerhouse"
+                        self.vibe = "Dark mode or GTFO"
+                
+                    def code(self):
+                        print("Building stuff that breaks reality 🤖")
+                
+                ShadowProtocol().code()
 
 - 🔥 First-year CSE (AI & ML) student — ready to rewrite reality  
 - 🛠️ Currently leveling up with Infosys Springboard Internship  
