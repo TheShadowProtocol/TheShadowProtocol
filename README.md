@@ -42,7 +42,7 @@ Built to Code. Designed to Dominate.
 ## 💬 Let’s Link Up
 
 - 💼 LinkedIn: [Coming soon…](https://linkedin.com)
-- 📧 Email: *[Your email goes here]*
+- 📧 Email: *[shadowmark2911@gmail.com]*
 
 ---
 
