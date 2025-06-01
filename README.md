@@ -2,7 +2,8 @@
 
 <p align="center">
 ⚔️ Future CSE-AI&ML Engineer & Digital Overlord in the Making ⚔️  
-Built to Code. Designed to Dominate.
+<span style="font-size:20px;">💀 Code. Dominate. Repeat. 💀</span><br>
+<span style="font-size:16px;">From silence I rise — with caffeine and Python.</span>
 </p>
 
 ---
@@ -43,6 +44,16 @@ Built to Code. Designed to Dominate.
 
 - 💼 LinkedIn: [Coming soon…](https://linkedin.com)
 - 📧 Email: *[shadowmark2911@gmail.com]*
+
+---
+
+## 😈 Fun Facts About The Shadow Protocol
+
+- 🌑 I debug in the dark — not just my editor, my soul too.
+- ☕ My code is 10% logic, 90% caffeine-fueled ambition.
+- 🎮 Treating bugs like mini-bosses. Victory screen = green checkmark.
+- 👻 I write cleaner code at 2 AM than most people do all day.
+- 🔮 I don’t comment my code. If you know, you know.
 
 ---
 
