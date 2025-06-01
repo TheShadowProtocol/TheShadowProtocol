@@ -18,7 +18,7 @@ class ShadowProtocol:
         self.goal = "Become a CSE-AI&ML powerhouse"
         self.vibe = "Dark mode or GTFO"
 
-    def code(self):
+ def code(self):
         print("Building stuff that breaks reality 🤖")
 
 ShadowProtocol().code()
