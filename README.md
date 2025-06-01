@@ -9,19 +9,10 @@
 ---
 
 ## 🧠 Who Am I?
-    ```python 
-                class ShadowProtocol:
-                    def __init__(self):
-                        self.status = "Learning"
-                        self.stack = ["Python", "HTML", "CSS", "Java", "GitHub"]
-                        self.goal = "Become a CSE-AI&ML powerhouse"
-                        self.vibe = "Dark mode or GTFO"
-                
-                    def code(self):
-                        print("Building stuff that breaks reality 🤖")
-                
-                ShadowProtocol().code()
 
+- 🛠️ Tech lover  
+- 🐍 Python disciple  
+- ☕ Night coder with a dark mode obsession  
 - 🔥 First-year CSE (AI & ML) student — ready to rewrite reality  
 - 🛠️ Currently leveling up with Infosys Springboard Internship  
 - 💡 Obsessed with AI, full-stack dev, and that clean, efficient code  
@@ -35,6 +26,17 @@
 - 🤖 AI mini-projects that flex both mind & muscle  
 - 🌐 Full-stack experiments powered by dark mode and caffeine  
 - 👾 Personal dev tools… *for when I feel like breaking the matrix*  
+
+---
+
+## 🧪 Featured Projects
+
+> 🔧 These are the weapons in my coding arsenal.  
+> 🧠 More coming soon... stay in stealth mode till deployment.
+
+| 🗂️ Project Name | 💥 Description |
+|----------------|----------------|
+| *Coming soon...* | My first Python-based creation will rise soon. Watch this space. |
 
 ---
 
@@ -52,19 +54,23 @@
 
 ---
 
-## 🧪 Featured Projects
+## 📜 ShadowProtocol Code Manifest
 
-> 🔧 These are the weapons in my coding arsenal.  
-> 🧠 More coming soon... stay in stealth mode till deployment.
-
-| 🗂️ Project Name | 💥 Description |
-|----------------|----------------|
-| *Coming soon...* | My first Python-based creation will rise soon. Watch this space. |
+    ```python
+    class ShadowProtocol:
+        def __init__(self):
+            self.status = "Learning"
+            self.stack = ["Python", "HTML", "CSS", "Java", "GitHub"]
+            self.goal = "Become a CSE-AI&ML powerhouse"
+            self.vibe = "Dark mode or GTFO"
+    
+        def code(self):
+            print("Building stuff that breaks reality 🤖")
+    
+    ShadowProtocol().code()
+    ## 💬 Let’s Link Up
 
 ---
-
-## 💬 Let’s Link Up
-
 - 💼 LinkedIn: [Coming soon…](https://linkedin.com)
 - 📧 Email: *[shadowmark2911@gmail.com]*
 - ⚙️ Portfolio Website: (Coming soon — dark mode only, obviously.)
