@@ -10,7 +10,7 @@
 
 ## 🧠 Who Am I?
 
-```python
+#```python
 class ShadowProtocol:
     def __init__(self):
         self.status = "Learning"
