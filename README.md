@@ -35,8 +35,9 @@
 > 🧠 More coming soon... stay in stealth mode till deployment.
 
 | 🗂️ Project Name | 💥 Description |
-|----------------|----------------|
-| *Coming soon...* | My first Python-based creation will rise soon. Watch this space. |
+|------------------|----------------|
+|  🛡️ ShadowPass   | Terminal-Based Password Generator  |
+| *second one Coming soon...* | My first Python-based creation will rise soon. Watch this space. |
 
 ---
 
