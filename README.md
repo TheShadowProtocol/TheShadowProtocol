@@ -64,13 +64,30 @@
 
 </div>
 ---
-## 📈 GitHub Stats
+🧠 SHΛDØW'S GITHUB INTEL DASHBOARD
+terminal
+Copy
+Edit
+┌──(Shadow㉿Root)─[~/dev-space]
+└─$ decoding-stats --pulse=🔥
+<div align="center">
+🎯 GitHub Profile Trophy Cabinet
+🏆 The flex wall of consistency, collabs, and raw commits.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+📊 GitHub Stats
+⚙️ Code-driven, commit-fueled — stats so hot, they auto-deploy themselves.
 
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&margin-w=10)
+🧬 GitHub Streaks
+🔥 When you code daily, even time bows down.
 
+
+🚀 Top Languages
+🌐 Where Shadow speaks in tongues — fluently.
+
+
+</div>
 ---
 
 ## 🧬 The Shadow Codebase
