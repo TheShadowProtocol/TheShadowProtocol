@@ -68,28 +68,60 @@
 
 <h2 align="center">💀 Terminal: /root/TheShadowProtocol $~</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Executing+Shadow+Protocol...;Decrypting+stats+...+🧠;Rendering+Top+Langs+...+🚀" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Decrypting-stats...🧠-F700FF?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
+
+<!-- 💀 SHΛDØW OPS DASHBOARD -->
+<h2 align="center">🧠 SHΛDØW OPS DASHBOARD</h2>
+
+<p align="center">
+  
+
 </p>
 
 <div align="center">
 
-  <!-- 🏆 Trophies -->
+  <!-- 🏆 Dev Trophy Wall -->
   <h3>🏆 Dev Trophy Wall</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=TheShadowProtocol&theme=radical&no-frame=true&margin-w=15" alt="Trophies"/>
 
-  <!-- 📈 GitHub Stats -->
+  <!-- 📊 GitHub Stats -->
   <h3>📈 Code Activity</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=TheShadowProtocol&show_icons=true&theme=tokyonight&border_radius=20&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
 
-  <!-- 🔥 Streaks -->
+  <!-- 🔥 GitHub Streak -->
   <h3>🔥 Commit Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheShadowProtocol&theme=tokyonight&border_radius=20&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheShadowProtocol&theme=tokyonight&border_radius=20&hide_border=true" alt="GitHub Streak"/>
 
-  <!-- 🚀 Top Languages -->
+  <!-- 🚀 Language Arsenal -->
   <h3>🚀 Language Arsenal</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShadowProtocol&layout=compact&theme=tokyonight&border_radius=20&hide_border=true" alt="Top Langs"/>
 
+    ### 🧰 Manual Tech Stack Breakdown
+
+<table>
+  <tr>
+    <td><b>💠 HTML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML-75%25-ff6f91?style=for-the-badge&logo=html5&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔷 CSS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/CSS-70%25-5aa9e6?style=for-the-badge&logo=css3&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>🟨 JavaScript</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-68%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=black">
+    </td>
+  </tr>
+</table>
 </div>
+
+
 
 ---
 
