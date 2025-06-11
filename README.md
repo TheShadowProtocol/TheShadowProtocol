@@ -67,7 +67,10 @@
 🧠 SHΛDØW'S GITHUB INTEL DASHBOARD
 
 ┌──(Shadow㉿Root)─[~/dev-space]
+
 └─$ decoding-stats --pulse=🔥
+
+
 
 <div align="center">
 🎯 GitHub Profile Trophy Cabinet
