@@ -64,18 +64,31 @@
 
 </div>
 ---
-<div align="center">
-  <!-- ⭐ GitHub Stats -->
-  <h2>🎯 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=TheShadowProtocol&show_icons=true&theme=tokyonight&border_radius=12&include_all_commits=true&count_private=true" alt="Shadow's GitHub Stats"/>
+<!-- Centered, terminal-themed GitHub dashboard with neon vibe -->
 
-  <!-- 🧬 GitHub Streak -->
-  <h2>🔥 Commit Streak</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheShadowProtocol&theme=tokyonight&border_radius=12" alt="GitHub Streak"/>
+<h2 align="center">💀 Terminal: /root/TheShadowProtocol $~</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Executing+Shadow+Protocol...;Decrypting+stats+...+🧠;Rendering+Top+Langs+...+🚀" alt="Typing SVG" />
+</p>
+
+<div align="center">
+
+  <!-- 🏆 Trophies -->
+  <h3>🏆 Dev Trophy Wall</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=TheShadowProtocol&theme=radical&no-frame=true&margin-w=15" alt="Trophies"/>
+
+  <!-- 📈 GitHub Stats -->
+  <h3>📈 Code Activity</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheShadowProtocol&show_icons=true&theme=tokyonight&border_radius=20&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+
+  <!-- 🔥 Streaks -->
+  <h3>🔥 Commit Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheShadowProtocol&theme=tokyonight&border_radius=20&hide_border=true" alt="Streak Stats"/>
 
   <!-- 🚀 Top Languages -->
-  <h2>🌐 Top Languages</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShadowProtocol&layout=compact&theme=tokyonight&border_radius=12" alt="Top Langs"/>
+  <h3>🚀 Language Arsenal</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShadowProtocol&layout=compact&theme=tokyonight&border_radius=20&hide_border=true" alt="Top Langs"/>
+
 </div>
 
 ---
