@@ -43,7 +43,9 @@
 ## ⚔️ Project Arsenal (Locked & Loading...)
 
 | 💼 Project | 🧩 Description |
+
 |  🛡️ ShadowPass   | Terminal-Based Password Generator  |
+
 | 🕶️ *Coming Soon* | The second artifact of the protocol is in incubation. Stay cloaked. |
 
 > ⚠️ Access restricted: You’ll see the weapons once they’re deployed.
@@ -66,18 +68,18 @@
 
 ## 🧬 The Shadow Codebase
 
-    ```python
-class ShadowProtocol:
-    def __init__(self):
-        self.mode = "Stealth"
-        self.level = "Rising"
-        self.stack = ["Python", "HTML", "CSS", "Java", "GitHub"]
-        self.vibe = "Dark mode or GTFO"
 
-    def execute(self):
-        print("Deploying AI spells & bending logic 🔮")
-
-ShadowProtocol().execute()
+                                            class ShadowProtocol:
+                                                def __init__(self):
+                                                    self.mode = "Stealth"
+                                                    self.level = "Rising"
+                                                    self.stack = ["Python", "HTML", "CSS", "Java", "GitHub"]
+                                                    self.vibe = "Dark mode or GTFO"
+                                            
+                                                def execute(self):
+                                                    print("Deploying AI spells & bending logic 🔮")
+                                            
+                                            ShadowProtocol().execute()
 
 🌐 Contact: Shadow Frequency
 
