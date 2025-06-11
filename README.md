@@ -1,80 +1,98 @@
-<h1 align="center">🖤 Welcome to TheShadowProtocol 🖤</h1>
+<h1 align="center">⚫ THE SHADOW PROTOCOL: INITIATED ⚫</h1>
 
 <p align="center">
-⚔️ Future CSE-AI&ML Engineer & Digital Overlord in the Making ⚔️  
-<span style="font-size:20px;">💀 Code. Dominate. Repeat. 💀</span><br>
-<span style="font-size:16px;">From silence I rise — with caffeine and Python.</span>
+🖤 CSE-AI&ML Aspirant | Python Monk | Code Alchemist 🖤<br>
+⚔️ Building in the dark to rule in the light ⚔️<br>
+💀 <i>“From silence I rise — with caffeine and Python.”</i>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=9D00FF&center=true&vCenter=true&width=680&lines=💀+Shadow+Protocol+Booting+...;⏳+Injecting+cyber-code+into+reality.;⚔️+SYSTEM+READY.">
+</h1>
+<!-- Hacker Terminal Energy (VT323) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=680&lines=Code.+Dominate.+Repeat.;Dark+mode+is+my+default+reality.;Every+bug+is+just+XP+in+disguise.">
+</p>
+<!-- Futuristic Energy (Orbitron) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=680&lines=Hack+the+matrix+with+clean+scripts.;Reality+bends+to+compiled+code.;Executing+Shadow+Protocol+Sequence...">
 </p>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 Who TF Am I?
 
-- 🛠️ Tech lover  
-- 🐍 Python disciple  
-- ☕ Night coder with a dark mode obsession  
-- 🔥 First-year CSE (AI & ML) student — ready to rewrite reality  
-- 🛠️ Currently leveling up with Infosys Springboard Internship  
-- 💡 Obsessed with AI, full-stack dev, and that clean, efficient code  
-- 🧩 Hacker of logic, dreamer of machines, ruler of silence  
-
----
-
-## 🚀 What I’m Working On
-
-- 🐍 Python utilities with a twist  
-- 🤖 AI mini-projects that flex both mind & muscle  
-- 🌐 Full-stack experiments powered by dark mode and caffeine  
-- 👾 Personal dev tools… *for when I feel like breaking the matrix*  
+- 🐍 Python-obsessed terminal ninja  
+- 🖥️ First-year CSE (AI & ML) student — decoding destiny  
+- 🔮 AI dreamer & future full-stack sorcerer  
+- 🛠️ Intern @ Infosys Springboard — currently training in the dojo  
+- 🦾 I believe in clean code, dark themes, and digital rebellion  
+- 🎯 Goal: Build tools that whisper to machines and bend logic itself  
 
 ---
 
-## 🧪 Featured Projects
+## 🚀 Current Missions
 
-> 🔧 These are the weapons in my coding arsenal.  
-> 🧠 More coming soon... stay in stealth mode till deployment.
+- ⚙️ Crafting sleek Python utilities like digital blades  
+- 🤖 Building AI sidekicks that think faster than your ex’s replies  
+- 🌐 Full-stack hacks — dark mode only, of course  
+- 👨‍💻 Creating dev tools that glitch reality (for fun & power)  
 
-| 🗂️ Project Name | 💥 Description |
-|------------------|----------------|
+---
+
+## ⚔️ Project Arsenal (Locked & Loading...)
+
+| 💼 Project | 🧩 Description |
 |  🛡️ ShadowPass   | Terminal-Based Password Generator  |
-| *second one Coming soon...* | My first Python-based creation will rise soon. Watch this space. |
+| 🕶️ *Coming Soon* | The second artifact of the protocol is in incubation. Stay cloaked. |
+
+> ⚠️ Access restricted: You’ll see the weapons once they’re deployed.
 
 ---
 
-## ⚒️ Tech Stack
+## 🛠️ Tech Stack of the Shadow
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-%233670A0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
 ---
 
-## 📜 ShadowProtocol Code Manifest
+## 🧬 The Shadow Codebase
 
     ```python
-    class ShadowProtocol:
-        def __init__(self):
-            self.status = "Learning"
-            self.stack = ["Python", "HTML", "CSS", "Java", "GitHub"]
-            self.goal = "Become a CSE-AI&ML powerhouse"
-            self.vibe = "Dark mode or GTFO"
-    
-        def code(self):
-            print("Building stuff that breaks reality 🤖")
-    
-    ShadowProtocol().code()
-    ## 💬 Let’s Link Up
+class ShadowProtocol:
+    def __init__(self):
+        self.mode = "Stealth"
+        self.level = "Rising"
+        self.stack = ["Python", "HTML", "CSS", "Java", "GitHub"]
+        self.vibe = "Dark mode or GTFO"
 
----
-- 💼 LinkedIn: [Coming soon…](https://linkedin.com)
-- 📧 Email: *[shadowmark2911@gmail.com]*
-- ⚙️ Portfolio Website: (Coming soon — dark mode only, obviously.)
+    def execute(self):
+        print("Deploying AI spells & bending logic 🔮")
+
+ShadowProtocol().execute()
+
+🌐 Contact: Shadow Frequency
+
+- 🔗 LinkedIn: Coming soon — encrypted
+- 📧 Email: shadowmark2911@gmail.com
+- 🌑 Portfolio: Loading dark core interface...
+
+🕳️ Random Glitches in the Matrix...
+
+
+- 🌌 Codes best in darkness. Night = clarity.
+- ☕ Survives on logic loops and lethal levels of caffeine
+- 🎮 Bugs aren’t problems — they’re challenges. Mini-bosses.
+- 🔥 Can’t write bad code if you don't sleep.
+- ⚠️ Doesn’t comment code. It’s meant to be understood, not read.
 
 ---
 
