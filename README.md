@@ -80,6 +80,7 @@
                                                     print("Deploying AI spells & bending logic 🔮")
                                             
                                             ShadowProtocol().execute()
+--- 
 
 🌐 Contact: Shadow Frequency
 
@@ -87,8 +88,9 @@
 - 📧 Email: shadowmark2911@gmail.com
 - 🌑 Portfolio: Loading dark core interface...
 
-🕳️ Random Glitches in the Matrix...
+---
 
+🕳️ Random Glitches in the Matrix...
 
 - 🌌 Codes best in darkness. Night = clarity.
 - ☕ Survives on logic loops and lethal levels of caffeine
