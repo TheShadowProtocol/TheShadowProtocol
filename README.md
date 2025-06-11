@@ -65,11 +65,10 @@
 </div>
 ---
 🧠 SHΛDØW'S GITHUB INTEL DASHBOARD
-terminal
-Copy
-Edit
+
 ┌──(Shadow㉿Root)─[~/dev-space]
 └─$ decoding-stats --pulse=🔥
+
 <div align="center">
 🎯 GitHub Profile Trophy Cabinet
 🏆 The flex wall of consistency, collabs, and raw commits.
