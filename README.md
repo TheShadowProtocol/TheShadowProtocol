@@ -64,32 +64,20 @@
 
 </div>
 ---
-🧠 SHΛDØW'S GITHUB INTEL DASHBOARD
-
-┌──(Shadow㉿Root)─[~/dev-space]
-
-└─$ decoding-stats --pulse=🔥
-
-
-
 <div align="center">
-🎯 GitHub Profile Trophy Cabinet
-🏆 The flex wall of consistency, collabs, and raw commits.
+  <!-- ⭐ GitHub Stats -->
+  <h2>🎯 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheShadowProtocol&show_icons=true&theme=tokyonight&border_radius=12&include_all_commits=true&count_private=true" alt="Shadow's GitHub Stats"/>
 
+  <!-- 🧬 GitHub Streak -->
+  <h2>🔥 Commit Streak</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheShadowProtocol&theme=tokyonight&border_radius=12" alt="GitHub Streak"/>
 
-📊 GitHub Stats
-⚙️ Code-driven, commit-fueled — stats so hot, they auto-deploy themselves.
-
-
-🧬 GitHub Streaks
-🔥 When you code daily, even time bows down.
-
-
-🚀 Top Languages
-🌐 Where Shadow speaks in tongues — fluently.
-
-
+  <!-- 🚀 Top Languages -->
+  <h2>🌐 Top Languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShadowProtocol&layout=compact&theme=tokyonight&border_radius=12" alt="Top Langs"/>
 </div>
+
 ---
 
 ## 🧬 The Shadow Codebase
