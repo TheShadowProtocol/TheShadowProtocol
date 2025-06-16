@@ -46,7 +46,7 @@
 
 |  🛡️ ShadowPass   | Terminal-Based Password Generator  |
 
-|  Shadowscribe    |                                         |
+| 🧠🕶️✍️ Shadowscribe |✨ AI-powered text and file summarizer with mood-tuned responses.Whisper to Words. Summon Summaries.|
 
 | 🕶️ *Coming Soon* | The third artifact of the protocol is in incubation. Stay cloaked. |
 
