@@ -46,7 +46,9 @@
 
 |  🛡️ ShadowPass   | Terminal-Based Password Generator  |
 
-| 🕶️ *Coming Soon* | The second artifact of the protocol is in incubation. Stay cloaked. |
+|  Shadowscribe    |                                         |
+
+| 🕶️ *Coming Soon* | The third artifact of the protocol is in incubation. Stay cloaked. |
 
 > ⚠️ Access restricted: You’ll see the weapons once they’re deployed.
 
@@ -101,8 +103,8 @@
 
 
   
-    ### 🧰 Manual Tech Stack Breakdown
-
+  ### 🧰 Manual Tech Stack Breakdown
+<div align="center">
 <table>
   <tr>
     <td><b>💠 HTML</b></td>
@@ -123,6 +125,7 @@
     </td>
   </tr>
 </table>
+</div>
 </div>
 
 
@@ -169,7 +172,8 @@
 - ☕ My code is 10% logic, 90% caffeine-fueled ambition.  
 - 🎮 Treating bugs like mini-bosses. Victory screen = green checkmark.  
 - 👻 I write cleaner code at 2 AM than most people do all day.  
-- 🔮 I don’t comment my code. If you know, you know.  
+- 🔮 I don’t comment my code. If you know, you know.
+- 🌑 Loves errors — because they whisper secrets
 
 ---
 
