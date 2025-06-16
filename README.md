@@ -72,31 +72,35 @@
 </p>
 
 <!-- 💀 SHΛDØW OPS DASHBOARD -->
+---
+
 <h2 align="center">🧠 SHΛDØW OPS DASHBOARD</h2>
 
 <p align="center">
-  
-
+  <img src="https://img.shields.io/badge/Decrypting-stats...🧠-F700FF?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 <div align="center">
 
   <!-- 🏆 Dev Trophy Wall -->
   <h3>🏆 Dev Trophy Wall</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=TheShadowProtocol&theme=radical&no-frame=true&margin-w=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TheShadowProtocol&theme=algolia&margin-w=10&no-bg=true&no-frame=true" />
 
   <!-- 📊 GitHub Stats -->
   <h3>📈 Code Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=TheShadowProtocol&show_icons=true&theme=tokyonight&border_radius=20&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheShadowProtocol&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true" />
 
   <!-- 🔥 GitHub Streak -->
   <h3>🔥 Commit Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheShadowProtocol&theme=tokyonight&border_radius=20&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheShadowProtocol&theme=tokyonight&hide_border=true&border_radius=10" />
 
   <!-- 🚀 Language Arsenal -->
   <h3>🚀 Language Arsenal</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShadowProtocol&layout=compact&theme=tokyonight&border_radius=20&hide_border=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShadowProtocol&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
+</div>
 
+
+  
     ### 🧰 Manual Tech Stack Breakdown
 
 <table>
