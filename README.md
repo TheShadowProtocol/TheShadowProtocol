@@ -139,7 +139,7 @@
                                                 def __init__(self):
                                                     self.mode = "Stealth"
                                                     self.level = "Rising"
-                                                    self.stack = ["Python", "HTML", "CSS", "Java", "GitHub"]
+                                                    self.stack = ["Python", "HTML", "CSS", "Java", "Javascript" , "GitHub"]
                                                     self.vibe = "Dark mode or GTFO"
                                             
                                                 def execute(self):
