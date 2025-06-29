@@ -135,17 +135,17 @@
 ## 🧬 The Shadow Codebase
 
 
-                                            class ShadowProtocol:
-                                                def __init__(self):
-                                                    self.mode = "Stealth"
-                                                    self.level = "Rising"
-                                                    self.stack = ["Python", "HTML", "CSS", "Java", "Javascript" , "GitHub"]
-                                                    self.vibe = "Dark mode or GTFO"
+    class ShadowProtocol:
+        def __init__(self):
+             self.mode = "Stealth"
+             self.level = "Rising"
+             self.stack = ["Python", "HTML", "CSS", "Java", "Javascript" , "GitHub"]
+             self.vibe = "Dark mode or GTFO"
                                             
-                                                def execute(self):
-                                                    print("Deploying AI spells & bending logic 🔮")
+        def execute(self):
+             print("Deploying AI spells & bending logic 🔮")
                                             
-                                            ShadowProtocol().execute()
+    ShadowProtocol().execute()
 --- 
 
 🌐 Contact: Shadow Frequency
