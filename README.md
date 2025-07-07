@@ -70,18 +70,20 @@ I’m not just building projects — I’m crafting **digital rituals**, one rep
 - |🧠 Shadowscribe|Ai as a damm broo |Python + Deepseek API and Streamlit |AI text+file summarizer with emotional tuning. Whisper. Summon. Dominate.|
 - |🕶️ Coming Soon |Artifact #003 under encryption. ETA: Soon. Very soon...|
 
+> ⚠️ Access restricted: You’ll see the weapons once they’re deployed.
+
 ---
 
 ##  🔮My current Processings.. 
 
- | 💼 Project | 🔥 Vibe | ⚙️ Stack |
-|-------------|-------|---------|
+ | 💼 Project | 🔥 Vibe | ⚙️ Stack |🧩 Description |
+|-------------|-------|---------|--------------|
 
 - |🧠 **MythicCraft** | STORY Dev Studio + AI 🤯 | FastAPI + Blender + React Native |A fantasy-gen AI-assisted game creation studio. |(comming soon....) 
 
 - |🎮 **Neon Rock Paper Scissors** | Rock Paper Scissors... but 🔥 | HTML + CSS + JS |Retro game vibes with modern FX.  |(on the wayy....)
 
-- |🌌 **Shadow Portfolio**| Hacker aesthetic on 100 | React + Tailwind + Framer Motion |A cyberpunk-themed hacker dev profile in the making.|(comming soon....) |
+- |🌌 **Shadow Portfolio**| Hacker aesthetic on 100 | React + Tailwind + Framer Motion |A cyberpunk-themed hacker dev profile in the making.|(comming soon....) 
 
 More coming. Stay dangerous. Stay tuned. 🖤
 
