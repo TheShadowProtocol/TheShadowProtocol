@@ -8,6 +8,8 @@
   🖤 <strong>CSE • AI/ML Student • Cyberpunk Dev</strong> <br>
   🚀 18 y/o Code Sorcerer • Breaking Limits Line by Line <br>
   💀 Welcome to the Mind of <code>TheRealShadowX</code>
+  <p align="center"><em>“In the void between AI and arcane, I write my own law.”</em></p>
+
 </p>
 
 ---
@@ -32,7 +34,9 @@ Hey, I’m **SHADOW** — your favorite chaos-coding prodigy from the future �
 Fueled by caffeine, chaos, and curiosity, I live in a terminal and breathe JavaScript, Python, and black coffee.  
 I’m not just building projects — I’m crafting **digital rituals**, one repo at a time.
 
-## 😎 Current Status 
+## 😎 Current Status :
+
+- ⚔️ ShadowX — the Cyberpunk Sorcerer of Code
 - 🐍 Python-obsessed terminal ninja  
 - 🖥️ First-year CSE (AI & ML) student — decoding destiny  
 - 🔮 AI dreamer & future full-stack sorcerer  
@@ -44,7 +48,7 @@ I’m not just building projects — I’m crafting **digital rituals**, one rep
 
 ---
 
-## 🚧 Tech Stack – My Weapons of Choice:
+## 🚧 Tech Stack – My Summons of Chaos:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -122,7 +126,7 @@ More coming. Stay dangerous. Stay tuned. 🖤
 
 ---
 
-<h2 align="center"> 📈 Current GIT Status </h2>
+<h2 align="center"> 📈 Current GIT Realm Status </h2>
 
 <div align="center">
 <div align="center" style="
@@ -206,21 +210,27 @@ More coming. Stay dangerous. Stay tuned. 🖤
 
 ---
 
-## 🧬 SHΛDØW.CORE
+## 🧬 SHΛDØW.CORE // Dark Sorcery v2.0
 ```
 class ShadowProtocol:
     def __init__(self):
-        self.mode = "Stealth"
-        self.level = "Rising"
-        self.stack = ["Python", "HTML", "CSS", "Java", "Javascript", "GitHub"]
-        self.vibe = "Dark mode or GTFO"
+        self.alias = "ShadowX the Sorceror"
+        self.mode = "Stealth Override 🥷"
+        self.level = "Unleashing 🔥"
+        self.stack = [ "⚔️ Python","🌐 HTML/CSS","🧠 JavaScript","🛠️ Java","🧬 FastAPI","🌪️ React","🧙 GitHub Magic" ]
+        self.aura = "Anti-Hero Arcane Energy 💀"
+        self.vibe = "Dark Mode or GTFO ☠️"
 
     def execute(self):
-        print("Deploying AI spells & bending logic 🔮")
+        print("🔮 Deploying AI spells...")
+        print("💻 Conjuring logic gates...")
+        print("🌌 Reality has been bent.")
 
-ShadowProtocol().execute()
-
+# Init the ritual
+shadow = ShadowProtocol()
+shadow.execute()
 ```
+
 ---
 ## 🎯 My Goals
 
@@ -242,6 +252,16 @@ ShadowProtocol().execute()
 
 ---
 
+## 🧙 Secret Words from the Abyss
+
+“We are not born heroes. We become them... in the lines of code we dare to write.”
+
+> protocol.exe --status ONLINE
+> 
+> awaiting next invocation...
+
+---
+
 ## 😈 Fun Facts About The Shadow Protocol
 
 - 🌑 I debug in the dark — not just my editor, my soul too. 
@@ -253,17 +273,17 @@ ShadowProtocol().execute()
 
 ---
 
-## 📡 Contact or Stalk Me 👀
+## 💀 Shadow Summon Links  (📡 Contact or Stalk Me 👀)
 
-> 🕶️ Wanna collab, vibe, or just admire from a distance?
+> 🕶️ Wanna collab, spell , or just admire from a distance
 
 - 🕸️ GitHub : [TheRealShadowX](https://github.com/TheRealShadowX)
 - 📧 Email : shadowmark2911@gmail.com
 - 🔗 Linked in : comming soon......
 - 🎲 Project Logs, Codes & Chaos : **You’re already here. Welcome to the dark side.**
-
+- 💀 Portfolio WEB : Summoning in process...  
 ---
 
-<h3 align="center">⚠️ THE SHADOW PROTOCOL IS ALWAYS EVOLVING... STAY GLITCHED ⚠️</h3>
-<p align="center"><i>"Code like a god. Rule like a shadow."</i></p>
-<p align="center">⚫⚫⚫ </p>   
+<h3 align="center">⚠️ THE SHADOW PROTOCOL IS ALWAYS EVOLVING... STAY GLITCHED AND SEE THE SORCERROR CASTING HIS REALM SPELL⚠️</h3>
+<p align="center"><i>"Summon the code. Bend the rules. Rule the realm."</i></p>
+<p align="center">⚫ 🔮 ☠  </p>  
