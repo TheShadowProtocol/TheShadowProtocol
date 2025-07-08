@@ -99,29 +99,21 @@ More coming. Stay dangerous. Stay tuned. 🖤
 
 ## 👁️‍🗨️ HACK THE STATS: TERMINAL DASHBOARD
 
-<h2 align="center">🏆 Trophy Wall of ShadowX</h2>
-
-<div align="center" style="
-  background: linear-gradient(135deg, #00ffe7 0%, #661aff 100%);
-  padding: 3px;
-  border-radius: 20px;
-  box-shadow: 0 0 20px #00ffe7, 0 0 30px #661aff;
-  display: inline-block;
-  transition: transform 0.3s ease;
+<h2 align="center" style="
+  font-family: 'Orbitron', sans-serif;
+  color: #00ffe7;
+  text-shadow: 0 0 10px #00ffe7, 0 0 20px #661aff;
 ">
-  <div style="
-    background-color: #0d0d0d;
-    padding: 20px;
-    border-radius: 18px;
-    box-shadow: inset 0 0 15px rgba(0, 255, 231, 0.2);
-  ">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=TheShadowProtocol&theme=onedark&margin-w=15&margin-h=15&no-frame=true&no-bg=true&column=6" 
-      alt="Trophies of ShadowX"
-    />
-  </div>
-</div>
+  🏆 Trophy Wall of ShadowX
+</h2>
 
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=TheShadowProtocol&theme=monokai&no-bg=true&no-frame=true&margin-w=20&margin-h=20&column=6" 
+    alt="Trophies of ShadowX" 
+    style="border-radius: 15px; filter: brightness(1.2) contrast(1.2) saturate(1.3); box-shadow: 0 0 20px #00ffe7, 0 0 30px #661aff;"
+ />
+</p> 
 
 
 ---
