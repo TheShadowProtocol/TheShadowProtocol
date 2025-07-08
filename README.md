@@ -1,6 +1,10 @@
 <h1 align="center">⚫ THE SHADOW PROTOCOL: INITIATED ⚫</h1>
 
 <p align="center">
+  <img src="assets/logo.png" alt="ShadowX the Sorceror Logo" width="300px" />
+</p>
+
+<p align="center">
   🖤 <strong>CSE • AI/ML Student • Cyberpunk Dev</strong> <br>
   🚀 18 y/o Code Sorcerer • Breaking Limits Line by Line <br>
   💀 Welcome to the Mind of <code>TheRealShadowX</code>
