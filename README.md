@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="shadow-banner.png" alt="The Shadow X Banner" width="100%" hight = "50%" />
+<p>
+  <img src=" shadow.png" alt="The Shadow X Banner" width="100%" />
 </p>
 
 <h1 align="center">⚫ THE SHADOW PROTOCOL: INITIATED ⚫</h1>
