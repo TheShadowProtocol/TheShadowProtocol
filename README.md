@@ -5,7 +5,7 @@
 <h1 align="center">⚫ THE SHADOW PROTOCOL: INITIATED ⚫</h1>
 
 <p align="center">
-  <img src="logo.png" alt="ShadowX the Sorceror Logo" width="300px" />
+  <img src="logo.png" alt="ShadowX the Sorceror Logo" width="500px" />
 </p>
 
 <p align="center">
