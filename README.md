@@ -1,3 +1,5 @@
+[![The Shadow X Banner](https://github.com/shadow-banner.png)](https://github.com/TheShadowProtocol)
+
 <h1 align="center">⚫ THE SHADOW PROTOCOL: INITIATED ⚫</h1>
 
 <p align="center">
