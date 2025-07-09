@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="shadow-banner.png" alt=" " width="300px" />
+</p>
 <h1 align="center">⚫ THE SHADOW PROTOCOL: INITIATED ⚫</h1>
 
 <p align="center">
