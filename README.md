@@ -32,11 +32,11 @@
 
 ---
 
-## 💡 Who TF Is SHADOW?
+## 💡 Who TF Is SHADOW ?
 
-Hey, I’m **SHADOW** — your favorite chaos-coding prodigy from the future 👾  
+*Hey, I’m **SHADOW** — your favorite chaos-coding prodigy from the future 👾  
 Fueled by caffeine, chaos, and curiosity, I live in a terminal and breathe JavaScript, Python, and black coffee.  
-I’m not just building projects — I’m crafting **digital rituals**, one repo at a time.
+I’m not just building projects — I’m crafting **digital rituals**, one repo at a time.*
 
 ## 😎 Current Status :
 
@@ -97,11 +97,11 @@ I’m not just building projects — I’m crafting **digital rituals**, one rep
 
 - |🌌 **Shadow Portfolio**| Hacker aesthetic on 100 | React + Tailwind + Framer Motion |A cyberpunk-themed hacker dev profile in the making.|(comming soon....) 
 
-More coming. Stay dangerous. Stay tuned. 🖤
+**More coming. Stay dangerous. Stay tuned. 🖤**
 
 ---
 
-## 👁️‍🗨️ HACK THE STATS: TERMINAL DASHBOARD
+### 👁️‍🗨️ HACK THE STATS: TERMINAL DASHBOARD
 
 <h2 align="center" style="
   font-family: 'Orbitron', sans-serif;
@@ -112,10 +112,9 @@ More coming. Stay dangerous. Stay tuned. 🖤
 </h2>
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=TheShadowProtocol&theme=monokai&no-bg=true&no-frame=true&margin-w=20&margin-h=20&column=6" 
+  <img src="https://github-profile-trophy.vercel.app/?username=TheShadowProtocol&theme=monokai&no-bg=true&no-frame=true&margin-w=20&margin-h=20&column=6" 
     alt="Trophies of ShadowX" 
-    style="border-radius: 15px; filter: brightness(1.2) contrast(1.2) saturate(1.3); box-shadow: 0 0 20px #00ffe7, 0 0 30px #661aff;"
+    style="border-radius: 15px; filter: brightness(2.2) contrast(1.2) saturate(1.3); box-shadow: 0 0 20px #00ffe7, 0 0 30px #661aff;"
  />
 </p> 
 
